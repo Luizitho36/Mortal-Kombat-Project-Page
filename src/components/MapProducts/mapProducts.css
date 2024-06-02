@@ -1,0 +1,22 @@
+.e-Commerce-principal {
+  color: #d5c3c3;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+}
+
+.lista-e-Commerce {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  margin: 17px;
+}
+
+.carrito {
+  color: rgb(128, 165, 196);
+  margin: 3px;
+}

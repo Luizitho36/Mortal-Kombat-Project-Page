@@ -1,0 +1,17 @@
+.lista-carrito {
+    position:fixed;
+    background: rgb(139, 44, 168);
+    border-radius: 10px;
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    margin: 17px;
+  }
+
+  .contador-carrito {
+    color:rgb(85, 24, 76);
+    background-color: rgb(182, 204, 214);
+    border-radius: 20px;
+    padding: 13px;
+    border: 2px solid rgb(27, 2, 64);
+  }
